@@ -1,4 +1,4 @@
-DEPI Project - Drug Effectiveness Predictive Intelligence
+#DEPI Project - Drug Effectiveness Predictive Intelligence
 Team Members:
 
 [Shahenda wael]
@@ -8,10 +8,10 @@ Team Members:
 [Fatema Alzahraa ]
 [ Basant Mohamed ]
 
-Project Overview:
+##Project Overview:
 This project focuses on analyzing drug effectiveness using AI and machine learning techniques. By leveraging patient data, we aim to predict the efficiency of different drugs and assist healthcare professionals in making data-driven treatment decisions.
 
-Technologies Used:
+###Technologies Used:
 
 Python
 Machine Learning (Random Forest, SVM)
