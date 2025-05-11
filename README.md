@@ -12,13 +12,15 @@
 
 ## 📌 Project Overview:
 This project focuses on analyzing **drug effectiveness** using **AI and machine learning techniques**.  
-By leveraging patient data, we aim to **predict the efficiency of different drugs** and assist healthcare professionals in making **data-driven treatment decisions**.
+By leveraging patient data, we aim to make a machine learning model to predict which diabetic patients are most likely to return to the hospital. 
+By identifying high-risk individuals, healthcare providers can take timely action to prevent unnecessary hospitalizations and improve patient care. 
+Looking ahead, integrating more detailed clinical information and implementing real-time predictions could further enhance the impact and effectiveness of this approach.
 
 ---
 
 ## 🛠️ Technologies Used:
 - **Python**
-- **Machine Learning**: Random Forest, Support Vector Machine (SVM)
+- **Machine Learning**: Random Forest, Support Vector Machine (SVM),LightGBM, XGBoost,logistic regression 
 - **Deep Learning**: Neural Networks
 - **Libraries & Tools**:  
   - TensorFlow  
@@ -26,7 +28,7 @@ By leveraging patient data, we aim to **predict the efficiency of different drug
   - Scikit-learn  
   - Pandas  
   - Matplotlib / Seaborn  
-  - Git / GitHub
+  -  GitHub
 
 ---
 
